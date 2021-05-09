@@ -1,0 +1,89 @@
+[
+
+    {
+      src_img: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163",
+      titulo_servico: "CRIAÇÃO DE SITES",
+      alt_imagem: "SERVIÇO DE CRIAÇÃO DE SITES",
+      id_servico: 29,
+      tipo_de_servico: "tecnologia",
+      detalhes_colaboradores: [
+                                { 
+                                  nome: "DANIEL",
+                                  funcao: "Desenvolvedor de site",
+                                  foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                },
+                                { 
+                                  nome: "JUNIOR",
+                                  funcao: "Ajudante eletricista",
+                                  foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                }
+                              ],
+      detail: "DETALHE DO SERVIÇO DE CRIAÇÃO DE SITES"
+    },
+
+    {
+        src_img: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163",
+        titulo_servico: "PSICOLOGIA",
+        alt_imagem: "SERVIÇO PSICOLOGIA",
+        id_servico: 30,
+        tipo_de_servico: "complementares",
+        detalhes_colaboradores: [
+                                  { 
+                                    nome: "DANIEL",
+                                    funcao: "Desenvolvedor de site",
+                                    foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                  },
+                                  { 
+                                    nome: "JUNIOR",
+                                    funcao: "Ajudante eletricista",
+                                    foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                  }
+                                ],
+        detail: "DETALHES DO SERVIÇO DE CRIAÇÃO DE SITES"
+
+      }, 
+
+      {
+        src_img: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163",
+        titulo_servico: "ALVENARIA",
+        alt_imagem: "SERVIÇO ALVENARIA",
+        id_servico: 31,
+        tipo_de_servico: "construcao",
+        detalhes_colaboradores: [
+                                  { 
+                                    nome: "DANIEL",
+                                    funcao: "Desenvolvedor de site",
+                                    foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                  },
+                                  { 
+                                    nome: "JUNIOR",
+                                    funcao: "Ajudante eletricista",
+                                    foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                  }
+                                ],
+        detail: "DETALHE DO SERVIÇO DE CRIAÇÃO DE SITES"
+
+      },
+
+      {
+        src_img: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163",
+        titulo_servico: "ALVENARIA",
+        alt_imagem: "SERVIÇO ALVENARIA",
+        id_servico: 32,
+        tipo_de_servico: "construcao",
+        detalhes_colaboradores: [
+                                  { 
+                                    nome: "DANIEL",
+                                    funcao: "Desenvolvedor de site",
+                                    foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                  },
+                                  { 
+                                    nome: "JUNIOR",
+                                    funcao: "Ajudante eletricista",
+                                    foto: "https://uploaddeimagens.com.br/images/003/186/373/original/icone-site.jpg?1617839163"
+                                  }
+                                ]
+      }
+    
+
+  ];
